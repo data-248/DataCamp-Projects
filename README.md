@@ -4,7 +4,7 @@
 <img src="https://cdn.datacamp.com/main-app/assets/brand/logos/DataCamp_Horizontal_RGB-d196011f63ebda76dc5c9772425cf9541b8639af842d5e5476ef10f2460ed1e4.png" width="500">
 </p>
 
-My notebooks to [Datacamp](datacamp.com/profile/tsocassandra) projects.
+My notebooks to <a href="datacamp.com/profile/tsocassandra">DataCamp</a> projects.
 
 ## Python
 | Project | Description |
