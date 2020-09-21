@@ -9,5 +9,6 @@ My notebooks to <a href="https://datacamp.com/profile/tsocassandra">DataCamp</a>
 ## Python
 | Project | Description |
 | --- | --- |
+| `Dr. Semmelweis and the discovery of handwashing` | Reanalyse the data behind one of the most important discoveries of modern medicine: Handwashing. |
 | `Exploring 67 years of LEGO` | In this project we will explore a database of every LEGO set ever built. |
 | `TV, Halftime Shows, and the Big Game` | Load, clean, and explore Super Bowl data in the age of soaring ad costs and flashy halftime shows. |
